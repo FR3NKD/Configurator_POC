@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Configurator 2-0.1.0";
 const contentToCache = [
-    "Build/POC Configurator.loader.js",
-    "Build/POC Configurator.framework.js.unityweb",
-    "Build/POC Configurator.data.unityweb",
-    "Build/POC Configurator.wasm.unityweb",
+    "Build/Configurator.loader.js",
+    "Build/Configurator.framework.js.unityweb",
+    "Build/Configurator.data.unityweb",
+    "Build/Configurator.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
